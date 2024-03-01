@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		970342722B90D1D200064632 /* OldObservableProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 970342712B90D1D200064632 /* OldObservableProtocol.swift */; };
 		975E153A2B8FC3ED00C71882 /* ObservableBootCampApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 975E15392B8FC3ED00C71882 /* ObservableBootCampApp.swift */; };
 		975E153C2B8FC3ED00C71882 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 975E153B2B8FC3ED00C71882 /* ContentView.swift */; };
 		975E153E2B8FC3EF00C71882 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 975E153D2B8FC3EF00C71882 /* Assets.xcassets */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		970342712B90D1D200064632 /* OldObservableProtocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OldObservableProtocol.swift; sourceTree = "<group>"; };
 		975E15362B8FC3ED00C71882 /* ObservableBootCamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ObservableBootCamp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		975E15392B8FC3ED00C71882 /* ObservableBootCampApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ObservableBootCampApp.swift; sourceTree = "<group>"; };
 		975E153B2B8FC3ED00C71882 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 				975E15392B8FC3ED00C71882 /* ObservableBootCampApp.swift */,
 				975E153B2B8FC3ED00C71882 /* ContentView.swift */,
 				975E15472B8FC41300C71882 /* ObservableMacro.swift */,
+				970342712B90D1D200064632 /* OldObservableProtocol.swift */,
 				975E153D2B8FC3EF00C71882 /* Assets.xcassets */,
 				975E153F2B8FC3EF00C71882 /* Preview Content */,
 			);
@@ -140,6 +143,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				970342722B90D1D200064632 /* OldObservableProtocol.swift in Sources */,
 				975E15482B8FC41300C71882 /* ObservableMacro.swift in Sources */,
 				975E153C2B8FC3ED00C71882 /* ContentView.swift in Sources */,
 				975E153A2B8FC3ED00C71882 /* ObservableBootCampApp.swift in Sources */,
